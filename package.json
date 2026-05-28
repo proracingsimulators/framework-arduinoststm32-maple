@@ -1,6 +1,6 @@
 {
   "name": "framework-arduinoststm32-maple",
-  "version": "3.10000.260525",
+  "version": "3.20000.260528",
   "description": "Arduino Wiring-based Framework for ST STM32 microcontrollers (Maple Core)",
   "keywords": [
     "framework",
